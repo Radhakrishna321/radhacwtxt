@@ -28,9 +28,9 @@ os.makedirs("./downloads", exist_ok=True)
 
 bot = Client(
     "CW",
-    api_id= 4942197,
-    api_hash= "13248a2c551b73193969b42194023635",
-    bot_token= "7121406395:AAE-YAOyUL0480uxRkwFvWx8Rm4_6gUgpp0")
+    api_id= 27506873,
+    api_hash= "a6e35f157348c804affcadece912fd30",
+    bot_token= "6697896706:AAGdXXxZUz8WPzvijo4ZWerxg3bEqNDw85M")
 
 logger = logging.getLogger()
 # thumb = os.environ.get("THUMB")
