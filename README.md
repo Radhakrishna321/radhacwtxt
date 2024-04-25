@@ -18,11 +18,11 @@
                                     
 
 ### Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Sachin79/kali-linux/blob/main/BlackOuT.ipyn)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Radhakrishna321/radhacwtxt/tree/main)
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/75atulkumar/idpasstotxtcw">
+<a href="https://heroku.com/deploy?template=https://github.com/Radhakrishna321/radhacwtxt/tree/main">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 <h2 align="center">
